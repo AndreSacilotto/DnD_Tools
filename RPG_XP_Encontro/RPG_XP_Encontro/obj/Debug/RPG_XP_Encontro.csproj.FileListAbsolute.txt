@@ -1,0 +1,9 @@
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\bin\Debug\RPG_XP_Encontro.exe.config
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\bin\Debug\RPG_XP_Encontro.exe
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\bin\Debug\RPG_XP_Encontro.pdb
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.csprojResolveAssemblyReference.cache
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.Form1.resources
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.Properties.Resources.resources
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.csproj.GenerateResource.Cache
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.exe
+Z:\VS Projects\RPG_XP_Encontro\RPG_XP_Encontro\obj\Debug\RPG_XP_Encontro.pdb

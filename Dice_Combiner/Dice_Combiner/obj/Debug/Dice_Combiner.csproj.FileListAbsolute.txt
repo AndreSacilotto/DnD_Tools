@@ -1,0 +1,7 @@
+E:\VS Projects\Dice_Combiner\Dice_Combiner\bin\Debug\Dice_Combiner.exe.config
+E:\VS Projects\Dice_Combiner\Dice_Combiner\bin\Debug\Dice_Combiner.exe
+E:\VS Projects\Dice_Combiner\Dice_Combiner\bin\Debug\Dice_Combiner.pdb
+E:\VS Projects\Dice_Combiner\Dice_Combiner\obj\Debug\Dice_Combiner.csprojResolveAssemblyReference.cache
+E:\VS Projects\Dice_Combiner\Dice_Combiner\obj\Debug\Dice_Combiner.csproj.CoreCompileInputs.cache
+E:\VS Projects\Dice_Combiner\Dice_Combiner\obj\Debug\Dice_Combiner.exe
+E:\VS Projects\Dice_Combiner\Dice_Combiner\obj\Debug\Dice_Combiner.pdb

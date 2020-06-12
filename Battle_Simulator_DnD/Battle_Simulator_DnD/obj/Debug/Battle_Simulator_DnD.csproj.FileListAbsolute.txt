@@ -1,0 +1,14 @@
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\bin\Debug\Battle_Simulator_DnD.exe.config
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\bin\Debug\Battle_Simulator_DnD.exe
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\bin\Debug\Battle_Simulator_DnD.pdb
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.Properties.Resources.resources
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.csproj.GenerateResource.cache
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.csproj.CoreCompileInputs.cache
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.exe
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.pdb
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.Form_Main.resources
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.criaturaControl.resources
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.Form_Battle.resources
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.csprojResolveAssemblyReference.cache
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.Form_Battle_Random.resources
+E:\VS Projects\Battle_Simulator_DnD\Battle_Simulator_DnD\obj\Debug\Battle_Simulator_DnD.Help_Form.resources

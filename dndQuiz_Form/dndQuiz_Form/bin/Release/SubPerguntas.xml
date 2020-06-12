@@ -1,0 +1,78 @@
+﻿<root>
+
+  <pergunta name = "Você faz uma jornada...">
+    <opc1>Sanguinária</opc1>
+    <opc2>Espiritual</opc2>
+  </pergunta>
+
+  <pergunta name = "Você quer ser?">
+    <opc1>Mago</opc1>
+    <opc2>Lutador</opc2>
+  </pergunta>
+
+  <pergunta name = "A sua entidade é?">
+    <opc1>Uma criatura lendária</opc1>
+    <opc2>Um demonio</opc2>
+    <opc3>Uma entidade desconhecida</opc3>
+  </pergunta>
+
+  <pergunta name = "O seu deus é?">
+    <opc1>Um sabio</opc1>
+    <opc2>Um trapaceiros</opc2>
+    <opc3>Mestre da Batalha</opc3>
+    <opc4>A luz que afasta a escuridão</opc4>
+  </pergunta>
+
+  <pergunta name = "Você quer ser um?">
+    <opc1>Conjurador de feitiços</opc1>
+    <opc2>Metamorfo</opc2>
+  </pergunta>
+
+  <pergunta name = "Você tem poderes mágicos por causa ">
+    <opc1>do meu Sangue Dragão</opc1>
+    <opc2>de uma Benção que recebi</opc2>
+    <opc3>Outros</opc3>
+  </pergunta>
+
+  <pergunta name = "Em combate você é...">
+    <opc1>Campeão do Campo de Batalha</opc1>
+    <opc2>Um guerreiro que usa magia</opc2>
+    <opc3>Um mestre da batalha com ataques únicos</opc3>
+  </pergunta>
+
+  <pergunta name = "Qual sua Especialidade">
+    <opc1>Acabar com a vida de meus inimigos</opc1>
+    <opc2>Prestidigitação</opc2>
+    <opc3>Trapacear com Mágia</opc3>
+  </pergunta>
+
+  <pergunta name = "Qual a sua escola magia...">
+    <opc1>Escola da Defesa</opc1>
+    <opc2>Escola da Sorte</opc2>
+    <opc3>Escola da Criação</opc3>    
+    <opc4>Escola da Hipnose</opc4>
+    <opc5>Escola do Poder</opc5>
+    <opc6>Escola das Ilusões</opc6>    
+    <opc7>Escola da Energia Morta</opc7>
+    <opc8>Escola da Alquimia</opc8>
+    
+  </pergunta>
+
+  <pergunta name = "O seu controle da força da vida o permite...">
+    <opc1>Realizar Golpes que afetem a força vital do alvo</opc1>
+    <opc2>Dominar as artes Obscuras</opc2>
+    <opc3>Conjurar Magias Elementais</opc3>
+  </pergunta>
+
+  <pergunta name = "Qual o seu juramento?">
+    <opc1>Ser sempre honesto, nunca ter medo, proteja os fracos e mostre misericordia, tenha honra, obedeça seus superiores e proteja quem está sobe sua proteção</opc1>
+    <opc2>Traga a esperança, proteja o mundo da maldade, deleite-se com as maravilhas do mundo, seja a alegria e coragem no coração das pessoas</opc2>
+    <opc3>Destruir todo grande mal o mais rápido possivel, não tenha misericordio do mal, na batalha contra mal vale tudo, se a ruina cair sobre o mundo devo ajudar os fracos</opc3>
+  </pergunta>
+
+  <pergunta name = "Você luta...">
+    <opc1>Como um lobo solitário</opc1>
+    <opc2>Com o meu fiel companheiro</opc2>
+  </pergunta>
+  
+  </root>

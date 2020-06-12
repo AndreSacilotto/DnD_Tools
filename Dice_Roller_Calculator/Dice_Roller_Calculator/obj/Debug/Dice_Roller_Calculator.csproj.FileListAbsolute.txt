@@ -1,0 +1,20 @@
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.exe.config
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.exe
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.pdb
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.Form1.resources
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.Properties.Resources.resources
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.exe
+C:\Users\Andre\source\repos\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.pdb
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.exe.config
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.exe
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\bin\Debug\Dice_Roller_Calculator.pdb
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csprojResolveAssemblyReference.cache
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.Form1.resources
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.Properties.Resources.resources
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csproj.GenerateResource.cache
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.csproj.CoreCompileInputs.cache
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.exe
+E:\VS Projects\Dice_Roller_Calculator\Dice_Roller_Calculator\obj\Debug\Dice_Roller_Calculator.pdb

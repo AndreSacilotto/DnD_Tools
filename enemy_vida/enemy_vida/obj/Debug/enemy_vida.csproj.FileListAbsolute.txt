@@ -1,0 +1,44 @@
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe.config
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.pdb
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csprojResolveAssemblyReference.cache
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form1.resources
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Properties.Resources.resources
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csproj.GenerateResource.Cache
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.exe
+c:\users\andre.sacilotto\documents\visual studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.pdb
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe.config
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.exe
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.pdb
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.pdb
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csprojResolveAssemblyReference.cache
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form1.resources
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Properties.Resources.resources
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csproj.GenerateResource.Cache
+C:\Users\Particular\Documents\Visual Studio 2015\Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form_help.resources
+Z:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe.config
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.exe
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.pdb
+Z:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe.manifest
+Z:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.application
+Z:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe
+Z:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.pdb
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csprojResolveAssemblyReference.cache
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form1.resources
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form_help.resources
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Properties.Resources.resources
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csproj.GenerateResource.Cache
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.exe.manifest
+Z:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.application
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form1.resources
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Form_help.resources
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.Properties.Resources.resources
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csproj.GenerateResource.cache
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csproj.CoreCompileInputs.cache
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.exe
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.pdb
+E:\VS Projects\enemy_vida\enemy_vida\obj\Debug\enemy_vida.csprojResolveAssemblyReference.cache
+E:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe.config
+E:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.exe
+E:\VS Projects\enemy_vida\enemy_vida\bin\Debug\enemy_vida.pdb

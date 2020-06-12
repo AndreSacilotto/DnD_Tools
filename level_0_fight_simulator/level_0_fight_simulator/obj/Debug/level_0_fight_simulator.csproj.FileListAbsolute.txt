@@ -1,0 +1,7 @@
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\bin\Debug\level_0_fight_simulator.exe.config
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\bin\Debug\level_0_fight_simulator.exe
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\bin\Debug\level_0_fight_simulator.pdb
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\obj\Debug\level_0_fight_simulator.csprojResolveAssemblyReference.cache
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\obj\Debug\level_0_fight_simulator.csproj.CoreCompileInputs.cache
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\obj\Debug\level_0_fight_simulator.exe
+E:\VS Projects\level_0_fight_simulator\level_0_fight_simulator\obj\Debug\level_0_fight_simulator.pdb

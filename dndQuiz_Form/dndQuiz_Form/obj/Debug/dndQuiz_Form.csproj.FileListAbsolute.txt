@@ -1,0 +1,15 @@
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\dndQuiz_Form.exe.config
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\dndQuiz_Form.exe
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\dndQuiz_Form.pdb
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.csprojResolveAssemblyReference.cache
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.Form_start.resources
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.Properties.Resources.resources
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.csproj.GenerateResource.cache
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.csproj.CoreCompileInputs.cache
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.exe
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.pdb
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.Form_Asks.resources
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\obj\Debug\dndQuiz_Form.Form_End.resources
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\Perguntas.xml
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\SubPerguntas.xml
+E:\VS Projects\dndQuiz_Form\dndQuiz_Form\bin\Debug\endQuiz.xml

@@ -1,0 +1,10 @@
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.csprojResolveAssemblyReference.cache
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.Properties.Resources.resources
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.csproj.GenerateResource.cache
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.csproj.CoreCompileInputs.cache
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\bin\Debug\DnD5e_conversorMoedas.exe.config
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\bin\Debug\DnD5e_conversorMoedas.exe
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\bin\Debug\DnD5e_conversorMoedas.pdb
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.exe
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.pdb
+E:\VS Projects\DnD5e_conversorMoedas\DnD5e_conversorMoedas\obj\Debug\DnD5e_conversorMoedas.Form1.resources

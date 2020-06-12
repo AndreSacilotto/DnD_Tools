@@ -1,0 +1,10 @@
+E:\VS Projects\Dados_roll\Dados_roll\bin\Debug\Dados_roll.exe.config
+E:\VS Projects\Dados_roll\Dados_roll\bin\Debug\Dados_roll.exe
+E:\VS Projects\Dados_roll\Dados_roll\bin\Debug\Dados_roll.pdb
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.csprojResolveAssemblyReference.cache
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.Properties.Resources.resources
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.csproj.GenerateResource.cache
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.csproj.CoreCompileInputs.cache
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.exe
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.pdb
+E:\VS Projects\Dados_roll\Dados_roll\obj\Debug\Dados_roll.Form1.resources

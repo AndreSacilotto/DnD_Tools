@@ -1,0 +1,10 @@
+E:\VS Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe.config
+E:\VS Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe
+E:\VS Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.pdb
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csprojResolveAssemblyReference.cache
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.Form1.resources
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.Properties.Resources.resources
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csproj.GenerateResource.cache
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csproj.CoreCompileInputs.cache
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.exe
+E:\VS Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.pdb

@@ -1,0 +1,64 @@
+Classes
+Be 	= Barbaro (Berserk)
+Ba 	= Bardo
+W 	= Bruxo (warlock)
+C	= Clerigo
+D	= Druida
+F	= Feiticeiro
+G	= Guerreiro
+L	= Ladino (rogue)
+Ma	= Mago 
+Mo	= Monge
+P	= Paladino
+R	= Patrulheiro (ranger)
+
+Caminhos:
+Barbaro: 2
+CF	= Caminho do Furioso
+CG	= Caminho do Guerreiro Totêmico
+Bardo: 2
+CoC	= Colégio do Conhecimento
+CoB	= Colégio da Bravura
+Bruxo: 3
+TA	= A Arquifada
+TC	= O Corruptor
+TG	= O Grande Antigo
+Clerigo: 4
+DC	= Domínio do Conhecimento
+DE	= Domínio da Enganação
+DG	= Domínio da Guerra
+DL	= Domínio da Luz
+Druida: 2
+CT	= Círculo da Terra
+CL	= Círculo da Lua
+Feiticeiro: 2
+MLd	= Linhagem Dracônica
+MS	= Magia Selvagem
+Guerreiro: 3
+GC	= Campeão
+GcA	= Cavaleiro Arcano
+GB	= Mestre de Batalha
+Ladino: 3
+LA	= Assassino
+LL	= Ladrão
+LTa	= Trapaceiro Arcano
+Mago: 8
+EAb	= Escola de Abjuração
+EAd	= Escola de Adivinhação
+EC	= Escola de Conjuração
+EEn	= Escola de Encantamento
+EEv	= Escola de Evocação
+EI	= Escola de Ilusão
+EN	= Escola de Necromancia
+ET	= Escola de Transmutação
+Monge: 3
+CMa	= Caminho da Mão Aberta
+CS	= Caminho da Sombra
+CQe	= Caminho dos Quatro Elementos
+Paladino: 3
+JD	= Juramento de Devoção
+JA	= Juramento dos Anciões
+JV	= Juramento de Vingança
+Patrulheiro: 2
+PC	= Conclave da Besta
+PMb	= Conclave do Caçador

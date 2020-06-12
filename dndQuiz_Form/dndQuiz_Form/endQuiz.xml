@@ -1,0 +1,170 @@
+﻿<root>
+
+  <rpg id = "01">
+    <classe>Barbaro</classe>
+    <subclasse>Caminho do Furioso</subclasse>
+  </rpg>
+  <rpg id = "02">
+    <classe>Barbaro</classe>
+    <subclasse>Caminho do Guerreiro Totêmico</subclasse>
+  </rpg>
+
+  <rpg id = "11">
+    <classe>Bardo</classe>
+    <subclasse>Colégio do Conhecimento</subclasse>
+  </rpg>
+  <rpg id = "12">
+    <classe>Bardo</classe>
+    <subclasse>Colégio da Bravura</subclasse>
+  </rpg>
+
+
+  <rpg id = "21">
+    <classe>Bruxo</classe>
+    <subclasse>A Arquifada</subclasse>
+  </rpg>
+  <rpg id = "22">
+    <classe>Bruxo</classe>
+    <subclasse>O Corruptor</subclasse>
+  </rpg>
+  <rpg id = "23">
+    <classe>Bruxo</classe>
+    <subclasse>O Grande Antigo</subclasse>
+  </rpg>
+
+  <rpg id = "31">
+    <classe>Clerigo</classe>
+    <subclasse>Domínio do Conhecimento</subclasse>
+  </rpg>
+  <rpg id = "32">
+    <classe>Clerigo</classe>
+    <subclasse>Domínio da Enganação</subclasse>
+  </rpg>
+  <rpg id = "33">
+    <classe>Clerigo</classe>
+    <subclasse>Domínio da Guerra</subclasse>
+  </rpg>
+  <rpg id = "34">
+    <classe>Clerigo</classe>
+    <subclasse>Domínio da Luz</subclasse>
+  </rpg>
+
+  <rpg id = "41">
+    <classe>Druida</classe>
+    <subclasse>Círculo da Terra</subclasse>
+  </rpg>
+  <rpg id = "42">
+    <classe>Druida</classe>
+    <subclasse>Círculo da Lua</subclasse>
+  </rpg>
+
+  <rpg id = "51">
+    <classe>Feiticeiro</classe>
+    <subclasse>Linhagem Dracônica</subclasse>
+  </rpg>
+  <rpg id = "52">
+    <classe>Feiticeiro</classe>
+    <subclasse>Magia Selvagem</subclasse>
+  </rpg>
+
+  <rpg id = "61">
+    <classe>Guerreiro</classe>
+    <subclasse>Campeão</subclasse>
+  </rpg>
+
+  <rpg id = "62">
+    <classe>Guerreiro</classe>
+    <subclasse>Cavaleiro Arcano</subclasse>
+  </rpg>
+  <rpg id = "63">
+    <classe>Guerreiro</classe>
+    <subclasse>Mestre de Batalha</subclasse>
+  </rpg>
+
+  <rpg id = "71">
+    <classe>Ladino</classe>
+    <subclasse>Assassino</subclasse>
+  </rpg>
+  <rpg id = "72">
+    <classe>Ladino</classe>
+    <subclasse>Ladrão</subclasse>
+  </rpg>
+  <rpg id = "73">
+    <classe>Ladino</classe>
+    <subclasse>Trapaceiro Arcano</subclasse>
+  </rpg>
+
+  <rpg id = "81">
+    <classe>Mago</classe>
+    <subclasse>Escola de Abjuração</subclasse>
+  </rpg>
+  <rpg id = "82">
+    <classe>Mago</classe>
+    <subclasse>Escola de Adivinhação</subclasse>
+  </rpg>
+  <rpg id = "83">
+    <classe>Mago</classe>
+    <subclasse>Escola de Conjuração</subclasse>
+  </rpg>
+  <rpg id = "84">
+    <classe>Mago</classe>
+    <subclasse>Escola de Encantamento</subclasse>
+  </rpg>
+  <rpg id = "85">
+    <classe>Mago</classe>
+    <subclasse>Escola de Evocação</subclasse>
+  </rpg>
+  <rpg id = "86">
+    <classe>Mago</classe>
+    <subclasse>Escola de Ilusão</subclasse>
+  </rpg>
+  <rpg id = "87">
+    <classe>Mago</classe>
+    <subclasse>Escola de Necromancia</subclasse>
+  </rpg>
+  <rpg id = "88">
+    <classe>Mago</classe>
+    <subclasse>Escola de Transmutação</subclasse>
+  </rpg>
+
+
+  <rpg id = "91">
+    <classe>Monge</classe>
+    <subclasse>Caminho da Mão Aberta</subclasse>
+  </rpg>
+  <rpg id = "92">
+    <classe>Monge</classe>
+    <subclasse>Caminho da Sombra</subclasse>
+  </rpg>
+  <rpg id = "93">
+    <classe>Monge</classe>
+    <subclasse>Caminho dos Quatro Elementos</subclasse>
+  </rpg>
+
+
+  <rpg id = "101">
+    <classe>Paladino</classe>
+    <subclasse>Juramento dos Anciões</subclasse>
+  </rpg>
+  <rpg id = "102">
+    <classe>Paladino</classe>
+    <subclasse>Juramento dos Anciões</subclasse>
+  </rpg>
+  <rpg id = "103">
+    <classe>Paladino</classe>
+    <subclasse>Juramento de Vingança</subclasse>
+  </rpg>
+
+
+  <rpg id = "111">
+    <classe>Patrulheiro</classe>
+    <subclasse>Conclave da Besta</subclasse>
+  </rpg>
+  <rpg id = "112">
+    <classe>Patrulheiro</classe>
+    <subclasse>Conclave do Caçador</subclasse>
+  </rpg>
+
+
+
+</root>

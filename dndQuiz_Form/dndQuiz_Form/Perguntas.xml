@@ -1,0 +1,75 @@
+﻿<root>
+
+  <pergunta name = "Como você prefere lutar?">
+    <opc1>Na linha de Frente</opc1>
+    <opc2>Em segurança</opc2>
+  </pergunta>
+  
+  <pergunta name = "Os seus ataques são...">
+    <opc1>Fortes e Destrutivos</opc1>
+    <opc2>Ágeis e Rápidos</opc2>  
+  </pergunta> 
+  
+  <pergunta name = "Ao lutar em segurança você tenta?">
+    <opc1>Aproveitar-se da distancia</opc1>
+    <opc2>Conjurar magias em segurança</opc2>
+  </pergunta> 
+  
+  <pergunta name = "Você confia em?">
+    <opc1>Suas Habilidades</opc1>
+    <opc2>Sua Magia</opc2>
+  </pergunta>   
+  
+  <pergunta name = "Você luta com os punhos?">
+    <opc1>Sim</opc1>
+    <opc2>Não</opc2>
+  </pergunta>   
+  
+  <pergunta name = "Você se esgueira pelas sombras?">
+    <opc1>Sim</opc1>
+    <opc2>Não</opc2>
+  </pergunta>   
+  
+  <pergunta name = "Como você adquiriu seus por poderes?">
+    <opc1>Nasci com eles</opc1>
+    <opc2>Me foi concedido</opc2>
+    <opc3>Com estudo e pratica</opc3>
+  </pergunta>   
+
+  <pergunta name = "Você serve a quem?">
+    <opc1>A natureza</opc1>
+    <opc2>A deus</opc2>
+  </pergunta>   
+
+  <pergunta name = "Suas Habilidades vem da(o)...">
+    <opc1>Força Bruta</opc1>
+    <opc2>Treino</opc2>
+  </pergunta>   
+
+  <pergunta name = "Você gosta mais de Música ou Animais?">
+    <opc1>Música</opc1>
+    <opc2>Animais</opc2>
+  </pergunta>   
+
+  <pergunta name = "Você manifesta seus poderes através da(o)...">
+    <opc1>Arte</opc1>
+    <opc2>Conhecimento</opc2>
+  </pergunta>   
+
+  <pergunta name = "Quem é lhe concedeu esse poderes?">
+    <opc1>Um deus</opc1>
+    <opc2>Um ser antigo</opc2>
+    <opc3>A natureza</opc3>
+  </pergunta>   
+
+  <pergunta name = "Você é o escudo ou pilar do seu time?">
+    <opc1>Pilar</opc1>
+    <opc2>Escudo</opc2>
+  </pergunta>   
+
+  <pergunta name = "O que você treina?">
+    <opc1>Arte das Armas</opc1>
+    <opc2>Minha mente e punhos</opc2>
+  </pergunta>   
+
+</root>

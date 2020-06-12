@@ -1,0 +1,10 @@
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\bin\Debug\Atr_Mod_dnd5e.exe.config
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\bin\Debug\Atr_Mod_dnd5e.exe
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\bin\Debug\Atr_Mod_dnd5e.pdb
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.csprojResolveAssemblyReference.cache
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.Form1.resources
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.Properties.Resources.resources
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.csproj.GenerateResource.cache
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.csproj.CoreCompileInputs.cache
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.exe
+E:\VS Projects\Atr_Mod_dnd5e\Atr_Mod_dnd5e\obj\Debug\Atr_Mod_dnd5e.pdb

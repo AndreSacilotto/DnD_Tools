@@ -1,0 +1,60 @@
+	Bárbaro
+- Caminho do Furioso
+- Caminho do Guerreiro Totêmico
+
+	Bardo
+- Colégio do Conhecimento
+- Colégio da Bravura
+
+	Bruxo
+- A Arquifada
+- O Corruptor
+- O Grande Antigo
+
+	Clérigo	
+- Domínio do Conhecimento
+- Domínio da Enganação
+- Domínio da Guerra
+- Domínio da Luz
+
+	Druida 
+- Círculo da Terra
+- Círculo da Lua
+
+	Feiticeiro
+- Linhagem dracônica
+- Magia Selvagem
+
+	Guerreiro
+- Campeão
+- Cavaleiro Arcano
+- Mestre de Batalha
+
+	Ladino
+- Assassino
+- Ladrão
+- Trapaceiro Arcano
+
+	Mago
+- Escola de Abjuração
+- Escola de Adivinhação
+- Escola de Conjuração
+- Escola de Encantamento
+- Escola de Evocação
+- Escola de Ilusão
+- Escola de Necromancia
+- Escola de Transmutação
+
+	Monge
+- Caminho da Mão Aberta
+- Caminho da Sombra
+- Caminho dos Quatro Elementos
+
+	Paladino
+- Juramento de devoção
+- Juramento dos Anciões
+- Juramento de Vingança
+
+	Patrulheiro
+- Caçador
+- Mestre das Bestas
